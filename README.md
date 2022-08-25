@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on bzip project
 - 🌱 I’m currently learning golang
-- 🤔 I’m looking for help with golang and inertial navigation
-
-
